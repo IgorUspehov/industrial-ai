@@ -5,6 +5,7 @@ import { YourEnterprise } from '@/components/sections/YourEnterprise';
 import { SpecificAI } from '@/components/sections/SpecificAI';
 import { FutureProduction } from '@/components/sections/FutureProduction';
 import { Examples } from '@/components/sections/Examples';
+import { LiveDemo } from '@/components/sections/LiveDemo';
 import { AuditQuestionnaire } from '@/components/sections/AuditQuestionnaire';
 import { FinalCTA } from '@/components/sections/FinalCTA';
 import { Footer } from '@/components/sections/Footer';
@@ -19,6 +20,7 @@ function App() {
         <SpecificAI />
         <FutureProduction />
         <Examples />
+        <LiveDemo />
         <AuditQuestionnaire />
         <FinalCTA />
         <Footer />

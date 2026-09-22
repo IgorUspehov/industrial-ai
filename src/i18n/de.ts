@@ -135,6 +135,13 @@ export const de: Translations = {
     },
     cardFooter: 'Physischer Prozess → AI',
   },
+  liveDemo: {
+    label: 'SYSTEM ONLINE',
+    title: 'LIVE DEMO',
+    subtitle: 'Echtzeit-Überwachungssystem für Extrusionslinien',
+    description: 'Ein echter Produktionsprozess-Simulator. Steuere Parameter — Temperatur, Druck, Geschwindigkeit — und beobachte die Systemreaktion in Echtzeit.',
+    button: 'DEMO STARTEN →',
+  },
   audit: {
     index: '06 / AI-AUDIT',
     title: 'Wie bereit ist Ihr Unternehmen für AI?',

@@ -133,6 +133,13 @@ export const en = {
     },
     cardFooter: 'Physical process → AI',
   },
+  liveDemo: {
+    label: 'SYSTEM ONLINE',
+    title: 'LIVE DEMO',
+    subtitle: 'Real-time extrusion line monitoring system',
+    description: 'A real production process simulator. Control parameters — temperature, pressure, speed — and watch the system respond in real time.',
+    button: 'LAUNCH DEMO →',
+  },
   audit: {
     index: '06 / AI AUDIT',
     title: 'How ready is your enterprise for AI?',
